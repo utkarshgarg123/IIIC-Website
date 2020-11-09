@@ -48,7 +48,9 @@
 				Winning Teams will further proceed to HULT Regionals.
 			</p>
 			To know more details about Hult Prize 2021 Challenge click <a href=" uploads/hultprize.pdf" style="color : #fff ; "><u>here</u></a>
-			<p>To Participate in the above track register below
+			<p>To Participate in the above track register below you are required to fill the google form
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSfxgjibwj-aRVC4QIv9U4ovBHFBVpmGhFP2uq0HFu8-ZpRQ6Q/viewform" style="color : #fff ; "><u>here</u></a>
+				as well as register on the link below
 
 				<center><a class="btn btn-rounded btn-primary" href="http://www.hultprizeat.com/iiit-india">Register</a></center>
 				<br>
@@ -61,7 +63,7 @@
 					The best ideas will be selected for the funding opportunities in NewGen IEDC center at IIIT Allahabad.</p>
 				<p>To participate in this track register below
 
-					<center><a class="btn btn-rounded btn-primary" href="index.php">Register</a></center>
+					<center><a class="btn btn-rounded btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSehLaYJChy--LQ2hjqVsp_0HqB5xBShOP28If3cP9AqzmFa8w/viewform">Register</a></center>
 					<br>
 		</ul>
 
