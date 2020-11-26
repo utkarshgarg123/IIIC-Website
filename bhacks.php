@@ -96,13 +96,15 @@
 		<h4 style="color : #fff ;text-align :center"><a style="color : #fff ;text-align :center" href="uploads/brochure_bhacks20.pdf"><u>Download Brochure</u></a></h1>
 			<br>
 			<center>
-				<a href="https://balsamiq.com/"><img src="images/brands/balsamiq.png" width="35%" style="vertical-align:middle; margin:10px 50px 25px 60px"></a>
-				<a href="https://wolfram.com/"><img src="images/brands/wolfram.png" width="35%" style="vertical-align:middle; margin:10px 25px 25px 50px"></a>
+
+				<a href="https://walmart.com/"><img src="images/brands/walmart.jpg" width="35%" style="vertical-align:middle; margin:10px 50px 25px 60px"></a>
+				<a href="https://wolfram.com/"><img src="images/brands/wolfram.jpg" width="35%" style="vertical-align:middle; margin:10px 25px 25px 50px"></a>
 			</center>
 			<br>
 			<center>
 				<a href="https://codingblocks.com/"><img src="images/brands/codingblocks.jpg" width="35%" style="vertical-align:middle; margin:25px 50px 5px 60px"></a>
-				<a href="https://walmart.com/"><img src="images/brands/walmart.jpg" width="35%" style="vertical-align:middle; margin:25px 25px 5px 50px"></a>
+
+				<a href="https://balsamiq.com/"><img src="images/brands/balsamiq.png" width="35%" style="vertical-align:middle; margin:10px 50px 25px 60px"></a>
 			</center>
 			<h2 style="color : #fff ;text-align :center; margin-top: 30px">PAST SPONSORS</h2>
 			<img src="images/pastsponsors.jpg" width="100%" style="vertical-align:middle; margin:0px 0px"><br>
